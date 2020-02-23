@@ -9,6 +9,7 @@
 end
 
 def assign_rooms(attendees)
+  new_array = []
   
   
 
