@@ -6,5 +6,5 @@ def batch_badge_creator(attendees)
   batch_badge_creator.each do |attendees|
 end
 
-def 
+
 
